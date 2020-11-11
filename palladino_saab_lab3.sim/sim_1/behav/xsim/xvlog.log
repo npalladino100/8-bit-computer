@@ -1,0 +1,36 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nick Palladino/Documents/Vivado Projects/palladino_saab_lab3/palladino_saab_lab3.srcs/sources_1/new/ALU_8bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_8bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nick Palladino/Documents/Vivado Projects/palladino_saab_lab3/palladino_saab_lab3.srcs/sources_1/new/Aminus1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Aminus1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nick Palladino/Documents/Vivado Projects/palladino_saab_lab3/palladino_saab_lab3.srcs/sources_1/new/Aplus1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Aplus1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nick Palladino/Documents/Vivado Projects/palladino_saab_lab3/palladino_saab_lab3.srcs/sources_1/new/BminusA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BminusA
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nick Palladino/Documents/Vivado Projects/palladino_saab_lab3/palladino_saab_lab3.srcs/sources_1/new/carrySelectAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module carrySelectAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nick Palladino/Documents/Vivado Projects/palladino_saab_lab3/palladino_saab_lab3.srcs/sources_1/new/carrySelectSubtractor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module carrySelectSubtractor
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nick Palladino/Documents/Vivado Projects/palladino_saab_lab3/palladino_saab_lab3.srcs/sources_1/new/eightBitAnd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module eightBitAnd
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nick Palladino/Documents/Vivado Projects/palladino_saab_lab3/palladino_saab_lab3.srcs/sources_1/new/eightBitMultiplier.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module eightBitMultiplier
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nick Palladino/Documents/Vivado Projects/palladino_saab_lab3/palladino_saab_lab3.srcs/sources_1/new/eightBitNand.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module eightBitNand
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nick Palladino/Documents/Vivado Projects/palladino_saab_lab3/palladino_saab_lab3.srcs/sources_1/new/eightBitNor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module eightBitNor
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nick Palladino/Documents/Vivado Projects/palladino_saab_lab3/palladino_saab_lab3.srcs/sources_1/new/eightBitOr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module eightBitOr
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nick Palladino/Documents/Vivado Projects/palladino_saab_lab3/palladino_saab_lab3.srcs/sources_1/new/eightBitXnor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module eightBitXnor
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nick Palladino/Documents/Vivado Projects/palladino_saab_lab3/palladino_saab_lab3.srcs/sources_1/new/eightBitXor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module eightBitXor
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nick Palladino/Documents/Vivado Projects/palladino_saab_lab3/palladino_saab_lab3.srcs/sources_1/new/negateA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module negateA
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nick Palladino/Documents/Vivado Projects/palladino_saab_lab3/palladino_saab_lab3.srcs/sources_1/new/negateB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module negateB
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nick Palladino/Documents/Vivado Projects/palladino_saab_lab3/palladino_saab_lab3.srcs/sources_1/new/onesComplementA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module onesComplementA
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nick Palladino/Documents/Vivado Projects/palladino_saab_lab3/palladino_saab_lab3.srcs/sources_1/new/onesComplementB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module onesComplementB
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nick Palladino/Documents/Vivado Projects/palladino_saab_lab3/palladino_saab_lab3.srcs/sim_1/new/ALU_8bit_testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_8bit_testbench
