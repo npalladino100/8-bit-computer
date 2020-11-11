@@ -54,6 +54,6 @@ wire [7:0] the_holy_wire;
     instruction_reg IR1(the_holy_wire[3:0], the_holy_wire, clk_100Hz, IR_out, IR_in);
     program_counter PC1(the_holy_wire[3:0], pc_monitor_out, the_holy_wire[3:0], clk_100Hz, c_enable, jump, c_out);
     
-   assign bus_monitor_out = the_holy_wire; // led bus monitor
+    assign bus_monitor_out = the_holy_wire;
     
 endmodule

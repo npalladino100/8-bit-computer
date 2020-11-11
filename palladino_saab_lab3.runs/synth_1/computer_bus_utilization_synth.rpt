@@ -1,7 +1,7 @@
 Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
 -------------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2020.1 (win64) Build 2902540 Wed May 27 19:54:49 MDT 2020
-| Date         : Wed Nov  4 21:26:13 2020
+| Date         : Wed Nov 11 15:01:09 2020
 | Host         : Nich running 64-bit major release  (build 9200)
 | Command      : report_utilization -file computer_bus_utilization_synth.rpt -pb computer_bus_utilization_synth.pb
 | Design       : computer_bus

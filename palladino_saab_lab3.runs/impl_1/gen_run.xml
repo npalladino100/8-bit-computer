@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1604543126">
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1605124821">
   <File Type="BITSTR-BMM" Name="computer_bus_bd.bmm"/>
   <File Type="OPT-METHODOLOGY-DRC" Name="computer_bus_methodology_drc_opted.rpt"/>
   <File Type="INIT-TIMING" Name="computer_bus_timing_summary_init.rpt"/>
@@ -347,7 +347,9 @@
     </Config>
   </FileSet>
   <Strategy Version="1" Minor="2">
-    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2020"/>
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2020">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
     <Step Id="init_design"/>
     <Step Id="opt_design"/>
     <Step Id="power_opt_design"/>
