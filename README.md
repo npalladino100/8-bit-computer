@@ -1,9 +1,4 @@
-Nicholas Palladino	U52182660
-Anthony Saab		U90831072
-
-For our digital system, we designed a really dumb 8-bit computer.
-It's really dumb because it doesn't have any control logic, so it must be
-controlled manually using 35 switches and a button.
+# 8-bit computer
 
 Modules:
 clock			100 Hz clock, also manually controllable
@@ -43,25 +38,3 @@ ALU_op		  ALU opcode for selecting operation (8 bits)
 
 Button Control:
 advance_clk       debounced button advances clock one cycle
-
-
-Although programming and controlling this system is a pain, it's very capable.
-Using the addition, subtraction, and multiplication from the ALU, many
-calculations can be performed.  In theory, the device is Turing Complete
-(given enough time and memory).  In reality, it needs more memory, but we
-plan on upgrading the RAM to a much larger capacity.  For now, programs are
-limited to 16 steps.
-
-We wrote testbenches for each major component of the computer, and while some
-testbenches may be outdated because we added additional ports to certain
-modules, they have all been ensured functional.
-
-In the demo, we will provide an example of programming and controlling the
-computer.  We will multiply two numbers and display the result.
-
-
-
-
-Contribution Statement:
-Nicholas Palladino - ALU upgrade, RAM, clock, output register, program counter
-Anthony Saab - Register design (A, B, instruction, MAR, output)
